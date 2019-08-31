@@ -46,7 +46,7 @@ public class A1Adept {
 		
 		// for loop for each customer
 		for(int i =0; i<customers.length; i++) {
-			// use charAt() method to get first initial of customer
+			// use charAt() method to get first initial of customer.
 			char first_letter = customers[i].first_name.charAt(0);
 			
 			// create output sting with customer first initial and last name
