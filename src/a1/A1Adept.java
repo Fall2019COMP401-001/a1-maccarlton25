@@ -49,7 +49,7 @@ public class A1Adept {
 			// use charAt() method to get first initial of customer.
 			char first_letter = customers[i].first_name.charAt(0);
 			
-			// create output sting with customer first initial and last name
+			// create output sting with customer first initial and last name.
 			String output = first_letter + ". " + customers[i].last_name + ": ";
 			
 			// create variable for the sum of item price

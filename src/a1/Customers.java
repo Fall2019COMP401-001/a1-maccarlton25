@@ -1,5 +1,7 @@
 package a1;
 
+//customers
+
 public class Customers {
 	String first_name;
 	String last_name;
